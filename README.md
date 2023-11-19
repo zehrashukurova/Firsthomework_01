@@ -1,1 +1,2 @@
-# firsthomework_01
+# Creating the first website
+In this site,it is possible to link to different pages using HTML and Css codes.The "Contact" page has a form for the users can fill in their information.Also you can link to different social media sites
