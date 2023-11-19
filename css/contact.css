@@ -1,0 +1,58 @@
+.sectionbar{
+    padding: 130px 200px  ;
+}
+.main-section{
+    background-color: white;
+    width: 60%;
+    float: left;
+    padding: 30px;
+    border: 1px solid #ccc;
+    margin-bottom: 40px;
+}
+.main-section h2{
+    color:#4AAAA5;
+    font-size: 36px;
+    font-weight: bold;
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 20px;
+    line-height: 70px;
+}
+.main-section form label{
+    color: #777;
+    font-size: 20px;
+}
+input[type=text],[type=email]{
+    height: 35px;
+    width: 100%;
+    border: 1px solid #ddd;
+
+}
+input[type=submit]{
+    font-size: 18px;
+    background-color: #4AAAA5;
+    color: white;
+    border: none;
+    width: 100px;
+    padding: 10px;
+}
+textarea{
+    height: 200px;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+
+.sidebar{
+    background-color: white;
+    width: 30%;
+    float: right;
+    text-align: center;
+    padding-bottom: 28px;
+    border: 1px solid #ccc;
+}
+.sidebar h3{
+    font-size: 24px;
+    font-weight: bold;
+    color: #4AAAA5;
+    margin: 28px;
+}
